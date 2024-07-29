@@ -2,4 +2,5 @@ p{
     background-color: aliceblue;
     columns: centre;
     -ms-grid-row-align: center;
+    column-rule-style: double;
 }
