@@ -3,4 +3,6 @@ p{
     columns: centre;
     -ms-grid-row-align: center;
     column-rule-style: double;
+    column-rule-style:centre;
+    -ms-grid-align:centre;
 }
