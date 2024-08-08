@@ -5,4 +5,5 @@ p{
     column-rule-style: double;
     column-rule-style:centre;
     -ms-grid-align:centre;
+    column-gap: normal;
 }
